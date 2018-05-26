@@ -1,0 +1,4 @@
+Problem-Statement:
+People are fed up with waiting at polling booths on the day of the election. So the government has decided to improve its efficiency by automating the waiting process. From now on, voters will be robots and there will be more than one EVM at each booth. Each of these EVMs can now accept vote from more than one person at a time by having different number of slots for voting. However one person can only vote once. Each robot and each EVM is controlled by a thread. You have been hired to write synchronization functions that will guarantee orderly use of EVMs.
+
+The above problem has been tackled using threads,mutex locks and synchronization techniques.
